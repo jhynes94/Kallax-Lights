@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "LM301B")(type "KiCad")(uri "${KIPRJMOD}/Components/LM301B/KiCad")(options "")(descr ""))
+  (lib (name "BCR421UFD")(type "KiCad")(uri "${KIPRJMOD}/Components/BCR421UFD-7/KiCad")(options "")(descr ""))
+)

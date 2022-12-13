@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM301B
+D Middle Power LED Series 3030
+K
+F https://cdn.samsung.com/led/file/resource/2020/09/Data_Sheet_LM301B_CRI80_Rev.10.1.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BCR421UFD")(type "Legacy")(uri "${KIPRJMOD}/Components/BCR421UFD-7/KiCad/BCR421UFD-7.lib")(options "")(descr "Legacy"))
+  (lib (name "LM301B")(type "Legacy")(uri "${KIPRJMOD}/Components/LM301B/KiCad/LM301B.lib")(options "")(descr ""))
+)

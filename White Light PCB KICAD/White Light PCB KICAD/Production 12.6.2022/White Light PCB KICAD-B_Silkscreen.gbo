@@ -1,0 +1,32 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
+%TF.CreationDate,2022-12-06T17:09:41-08:00*%
+%TF.ProjectId,White Light PCB KICAD,57686974-6520-44c6-9967-687420504342,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-12-06 17:09:41*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,2.600000X2.600000*%
+%ADD11C,2.600000*%
+G04 APERTURE END LIST*
+%LPC*%
+D10*
+%TO.C,J2*%
+X334125000Y-59540000D03*
+D11*
+X334125000Y-53540000D03*
+X329425000Y-56540000D03*
+%TD*%
+D10*
+%TO.C,J1*%
+X52820000Y-59540000D03*
+D11*
+X52820000Y-53540000D03*
+X48120000Y-56540000D03*
+%TD*%
+M02*
